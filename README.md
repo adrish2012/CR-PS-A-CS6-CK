@@ -10,7 +10,7 @@ Just download our tools or try your own :)
 
 Tools method !
 
-DOWNLOAD OUR TOOLS FROM RELEASES TAB, EXTRACT, RUN "CRACK-IT.BAT", DO NOT RUN PDapp.exe !!
+DOWNLOAD OUR TOOLS FROM RELEASES TAB, EXTRACT, RUN "CRACK-IT.BAT",Close the window, DO NOT RUN PDapp.exe !!
 And Done !!!!!!!!!!!
 
 Note:- If it displays an error, your edition of Windows is not supported, please run the "Revert (for non working users only).bat", I can't do anything with it, do it manually as shown below.
