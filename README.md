@@ -27,4 +27,4 @@ or) CREATE A PROGRAM (.exe) THAT DOES NOTHING VIA C CODE LANGUAGE and rename to 
 4) Delete the PDapp.exe that is in the original directory, not the file copied to "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core"
 
 
-5) THANK YOU !!!!!!!
+THANK YOU !!!!!!!
