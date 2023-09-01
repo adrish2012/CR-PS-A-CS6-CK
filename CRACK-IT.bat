@@ -7,5 +7,3 @@ cd /d %~dp0
 
 
 copy PDapp.exe C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core
-
-pause
