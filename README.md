@@ -8,9 +8,13 @@ Only works for 64-bit.
 
 Just download our tools or try your own :)
 
+If you haven't downloaded Photoshop CS6 yet, download it from the below official Adobe website, if you can't download it , make sure you are signed in to adobe website, if not do it or create a adobe account:-
+
+https://trials.adobe.com/AdobeProducts/legacy/99CABBAC-C975-4A06-8D99-064C6871EE80/PHSP/13/win32/Photoshop_13_LS16.7z?clickref=1100lxJVma7L&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=github/adrish2012
+
 Tools method !
 
-DOWNLOAD OUR TOOLS FROM RELEASES TAB, EXTRACT, RUN "CRACK-IT.BAT",Close the window, DO NOT RUN PDapp.exe !!
+DOWNLOAD OUR TOOLS FROM RELEASES TAB, EXTRACT, RUN "CRACK-IT.BAT", CLICK ON "RUN ANYWAY", Close the window, DO NOT RUN PDapp.exe !!
 And Done !!!!!!!!!!!
 
 Note:- If it displays an error, your edition of Windows is not supported, please run the "Revert (for non working users only).bat", I can't do anything with it, do it manually as shown below.
