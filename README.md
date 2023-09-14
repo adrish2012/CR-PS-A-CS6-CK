@@ -12,6 +12,9 @@ If you haven't downloaded Photoshop CS6 yet, download it from the below official
 
 https://trials.adobe.com/AdobeProducts/legacy/99CABBAC-C975-4A06-8D99-064C6871EE80/PHSP/13/win32/Photoshop_13_LS16.7z?clickref=1100lxJVma7L&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=github/adrish2012
 
+Select 64 bit only.
+"Make sure that your internet is turned off during installation"
+
 Tools method !
 
 DOWNLOAD OUR TOOLS FROM RELEASES TAB, EXTRACT, RUN "CRACK-IT.BAT", CLICK ON "RUN ANYWAY", Close the window, DO NOT RUN PDapp.exe !!
